@@ -17,13 +17,13 @@ Technologies used:
 Screenshots:
 
 
-<img src="https://user-images.githubusercontent.com/90499826/156768541-09b75254-728c-4ef9-af2d-c6229607409c.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/90499826/156768541-09b75254-728c-4ef9-af2d-c6229607409c.png" width="400" height="500">
 
 
-<img src="https://user-images.githubusercontent.com/90499826/156768656-d70feb5f-f475-428c-ab14-c08961f702cc.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/90499826/156768656-d70feb5f-f475-428c-ab14-c08961f702cc.png" width="400" height="500">
 
 
-<img src="https://user-images.githubusercontent.com/90499826/156768863-a0578e56-7023-40a6-8a10-a3eb855e06d8.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/90499826/156768863-a0578e56-7023-40a6-8a10-a3eb855e06d8.png" width="400" height="500">
 
 
 
